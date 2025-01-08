@@ -26,7 +26,7 @@
 
 ✉︎  mail : vita.alexandru@outlook.com
 
-ℹ️  linkedind : www.linkedin.com/in/alexandru-vita-b58a58297
+ℹ️  linkedin : www.linkedin.com/in/alexandru-vita-b58a58297
 
 <!---
 valex1804/valex1804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
