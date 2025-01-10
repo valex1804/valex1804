@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning :
   
- 🐧 Linux , 🖧 Networking , 🇵🇾-Pyhton , 🐋Docker
+ 🐧 Linux , 🖧 Networking , Pyhton , 🐋Docker
  
 - 💞️ I’m looking to collaborating on projects where I can help with my skills :
   
