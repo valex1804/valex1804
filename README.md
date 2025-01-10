@@ -20,7 +20,6 @@
 
 ✅ Firewall Configuration & Security Management
 
-✅ Tools: Cisco Packet Tracer, GNS3, Oracle VM VirtualBox
 
 - 📫 How to reach me :
 
