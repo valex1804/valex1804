@@ -14,8 +14,6 @@
 
 ✅ Network Design & Troubleshooting
 
-✅ Python Scripting for Automation
-
 ✅ Routing & Switching Protocols (VLAN, STP, RIPv2, RIPng)
 
 ✅ Firewall Configuration & Security Management
